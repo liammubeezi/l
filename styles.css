@@ -1,0 +1,75 @@
+body{
+ 
+}
+ .main-container{
+  
+ }
+
+ .content{
+  text-align: center;
+ }
+ .col-left{
+ width: 19%;
+ }
+ .col-center{
+ width: 59%;
+ }
+ .col-right{
+ width: 19%;
+ }
+ .columns{
+ border: 1px solid black ;
+ float: left;
+
+ }
+ .name{
+ 	text-align: center;
+ }
+ .nav-link{
+ 	color: white;
+ }
+
+
+.hero{
+	
+	background-color: red;
+	color: white;
+	padding: 60px 80px;
+	/*background-image: url(game.jpg);
+	background-size: cover;
+	background-position: center;*/
+	
+}
+.rounded{
+	margin-top: -8%;
+    border:solid;
+    border-color: white;
+    border-width: 20px;
+    width: 70%;
+
+box-shadow: 32px 18px 38px -3px rgba(0,0,0,0.46);
+
+
+}
+.hidden{
+	padding-top: 40px;
+
+}
+
+.write{
+	margin-top: 50px;
+	font-size: 35px;
+	margin-bottom: 45px;
+}
+footer{
+	
+ background: linear-gradient(to right, red,black );
+ text-align: center;
+ color: white;
+ padding: 50px 50px;
+ font-size: 20px;
+}
+.fa{
+	font-size: 40px;
+	color: white;
+}
